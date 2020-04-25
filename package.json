@@ -1,0 +1,32 @@
+{
+  "name": "multi-factor-authentication",
+  "version": "1.0.0",
+  "description": "Easy integration of two-factor-authetication or multi-factor-authetication can be used for sms, email, google-authenticator, authy, gauth or any other authenticator which provides real time totp with/without internet connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "[\"google-autheticator\"",
+    "\"google",
+    "autheticator\"",
+    "\"authy\"",
+    "\"autheticator\"",
+    "\"duo",
+    "mobile\"",
+    "\"multi",
+    "factor",
+    "authentication\"",
+    "\"microsoft",
+    "authenticator\"",
+    "\"gauth\"",
+    "\"two",
+    "factor",
+    "authentication\"]"
+  ],
+  "author": "Parag Palod",
+  "license": "MIT",
+  "dependencies": {
+    "speakeasy": "^2.0.0"
+  }
+}
