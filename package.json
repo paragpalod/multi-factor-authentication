@@ -4,7 +4,7 @@
   "description": "Easy integration of two-factor-authetication or multi-factor-authetication can be used for sms, email, google-authenticator, authy, gauth or any other authenticator which provides real time totp with/without internet connection",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\""
   },
   "repository": {
     "type": "git",
