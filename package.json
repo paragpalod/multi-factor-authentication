@@ -1,32 +1,29 @@
 {
   "name": "multi-factor-authentication",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easy integration of two-factor-authetication or multi-factor-authetication can be used for sms, email, google-authenticator, authy, gauth or any other authenticator which provides real time totp with/without internet connection",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paragpalod/multi-factor-authentication"
+  },
   "keywords": [
-    "[\"google-autheticator\"",
-    "\"google",
-    "autheticator\"",
-    "\"authy\"",
-    "\"autheticator\"",
-    "\"duo",
-    "mobile\"",
-    "\"multi",
-    "factor",
-    "authentication\"",
-    "\"microsoft",
-    "authenticator\"",
-    "\"gauth\"",
-    "\"two",
-    "factor",
-    "authentication\"]"
+    "google autheticator",
+    "authy",
+    "autheticator",
+    "duo mobile",
+    "microsoft authenticator",
+    "gauth",
+    "two factor authentication",
+    "multi factor authentication"
   ],
   "author": "Parag Palod",
   "license": "MIT",
   "dependencies": {
+    "qrcode": "^1.4.4",
     "speakeasy": "^2.0.0"
   }
 }
